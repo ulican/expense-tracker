@@ -1,0 +1,43 @@
+# Git
+.git
+.gitignore
+.github
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv
+venv/
+ENV/
+env/
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Docs
+docs/
+*.md
+LICENSE
+
+# Kubernetes & Terraform
+k8s/
+terraform/
+
+# Scripts
+scripts/
+
+# Testing
+.pytest_cache
+.coverage
+htmlcov/
